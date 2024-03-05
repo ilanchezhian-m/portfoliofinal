@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Anirban Das - Fullstack Developer & UX Designer",
+  "short_name": "Anirban Das - Fullstack Developer & UX Designer",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Anirban Das - Fullstack Developer & UX Designer"
+}
