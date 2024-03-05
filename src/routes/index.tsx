@@ -10,7 +10,7 @@ import PhArrowRight from "~/Icons/main/PhArrowRight";
 // import imageUrlBuilder from "@sanity/image-url";
 import { Image } from "@unpic/qwik";
 // import { client } from "./layout";
-import { useSanityMyImages } from "./layout";
+// import { useSanityMyImages } from "./layout";
 import { Link } from "@builder.io/qwik-city";
 
 
@@ -31,7 +31,7 @@ type Image = {
 };
 
 export default component$(() => {
-  const sanity = useSanityMyImages();
+  
 
 
   return (
@@ -123,11 +123,11 @@ export default component$(() => {
            
             <div class="h-full w-5/6 overflow-hidden">
               <Image
-                src="/images/logo/ilan.png"
+                src="/images/logo/Ilan.png"
                 layout="constrained"
                 width={386}
                 height={515}
-                alt={sanity.value[0]?.MainImageAlt}
+                alt="image of Ilanchezhian M."
                 background="auto"
                 class="mx-auto h-full w-full"
               />
