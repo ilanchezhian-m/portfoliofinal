@@ -5,9 +5,6 @@
 Welcome to my portfolio! I'm Ilanchezhian, a passionate web developer from India, and this repository showcases the projects and work I've done to demonstrate my skills and expertise in the field.
 
 
-
-
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -43,8 +40,8 @@ If you find any issues or have suggestions for improvements, feel free to open a
 You can reach out to me through the following channels:
 
 - Email: [ilanchezhian27@gmail.com](ilanchezhian27@gmail.com)
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ilanchezhian27i)
-- Website: [My Website]()
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ilanchezhian27)
+- Website: [My Website](https://portfoliofinal-ilanchezhian-ms-projects.vercel.app/)
 
 ## License
 
