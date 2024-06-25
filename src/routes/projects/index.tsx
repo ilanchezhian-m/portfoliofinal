@@ -79,7 +79,7 @@ export default component$(() => {
               <a href="http://github.com/ilanchezhian-m/tas" target="_blank">
                 <button class="bg-black text-white px-28 py-8 rounded-lg">Github</button>
                 </a>
-                <a href="https://www.tasinnovation.com/" target="_blank">
+                <a href="https://startup-website-five.vercel.app/" target="_blank">
                 <button class="bg-black text-white px-28 py-8 rounded-lg ">Live link</button>
                 </a>
                 </div>
@@ -119,7 +119,7 @@ export const head: DocumentHead = {
     },
     {
       property: "og:site_name",
-      content: "Anirban Das - Fullstack Developer & UX Designer",
+      content: "Ilanchezhian - Fullstack Developer & UX Designer",
     },
     {
       property: "og:type",
