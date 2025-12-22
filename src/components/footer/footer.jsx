@@ -105,9 +105,9 @@ export default component$(() => {
               <PhGithubLogoLight />
             </Link>
             <Link
-              href="mailto:ilanchezhian27@gmail.com"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=ilanchezhian27@gmail.com"
               target="_blank"
-              aria-label="Link to Anirban Das's Facebook profile"
+              aria-label="Link to ilanchezhian27@gmai.com"
             >
               <PhFacebookLogoLight />
             </Link>

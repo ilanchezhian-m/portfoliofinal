@@ -63,6 +63,36 @@ export default component$(() => {
         </h4>
         <div class="flex flex-col gap-32 px-40 py-40 md:gap-64 bg-grey rounded-2xl  ">
         <p class="font-bold container min-w-full text-center text-13 text-black sm:text-16 lg:text-21 xl:text-27"> 
+                 Ecommerce supplement website
+                </p>
+        <Image
+                  src="/images/logo/Ecommerce.png"
+                  layout="constrained"
+                  alt="Vercel logo image."
+                  width={3000}
+                  height={3000}
+                  background="auto"
+                  // class="w-50 md:w-104 xl:w-152"
+                />
+                <div class="flex justify-evenly font-bold">
+                
+              <a href="https://github.com/ilanchezhian-m/Ecommerce" target="_blank">
+                <button class="bg-black text-white px-28 py-8 rounded-lg">Github</button>
+                </a>
+                <a href="https://ecommerce-supplements.vercel.app/" target="_blank">
+                <button class="bg-black text-white px-28 py-8 rounded-lg ">Live link</button>
+                </a>
+                </div>
+                </div>
+                <p class="font-bold container min-w-full text-center text-13 text-black sm:text-16 lg:text-21 xl:text-27"> 
+                  Developed a website for Tas Innovation Startup using Tailwind CSS, React.js on vite , implemented mail functionality with Nodemailer.
+                </p>
+  
+
+{/* 2nd project */}
+
+         <div class="flex flex-col gap-32 px-40 py-40 md:gap-64 bg-grey rounded-2xl  ">
+        <p class="font-bold container min-w-full text-center text-13 text-black sm:text-16 lg:text-21 xl:text-27"> 
                  Website for an StartUp
                 </p>
         <Image
@@ -87,7 +117,45 @@ export default component$(() => {
                 <p class="font-bold container min-w-full text-center text-13 text-black sm:text-16 lg:text-21 xl:text-27"> 
                   Developed a website for Tas Innovation Startup using Tailwind CSS, React.js on vite , implemented mail functionality with Nodemailer.
                 </p>
-      </section>
+
+{/* 3rd project */}
+
+         <div class="flex flex-col gap-32 px-40 py-40 md:gap-64 bg-grey rounded-2xl  ">
+        <p class="font-bold container min-w-full text-center text-13 text-black sm:text-16 lg:text-21 xl:text-27"> 
+                 Weather 
+                </p>
+        <Image
+                  src="/images/logo/weather.png"
+                  layout="constrained"
+                  alt="Vercel logo image."
+                  width={3000}
+                  height={3000}
+                  background="auto"
+                  // class="w-50 md:w-104 xl:w-152"
+                />
+                <div class="flex justify-evenly font-bold">
+                
+              <a href="https://github.com/ilanchezhian-m/weather-projcect" target="_blank">
+                <button class="bg-black text-white px-28 py-8 rounded-lg">Github</button>
+                </a>
+                <a href="https://weather-project-three-kohl.vercel.app/" target="_blank">
+                <button class="bg-black text-white px-28 py-8 rounded-lg ">Live link</button>
+                </a>
+                </div>
+                </div>
+                <p class="font-bold container min-w-full text-center text-13 text-black sm:text-16 lg:text-21 xl:text-27"> 
+                  Developed a website for Tas Innovation Startup using Tailwind CSS, React.js on vite , implemented mail functionality with Nodemailer.
+                </p>
+
+
+
+                
+
+
+                
+
+
+          </section>
     </div>
   );
 });
@@ -111,7 +179,7 @@ export const head: DocumentHead = {
     },
     {
       property: "og:url",
-      content: "https://www.anirbandas.in/projects", // Replace with your website URL
+      content: "ilanchezhian.dev", // Replace with your website URL
     },
     {
       property: "og:locale",
@@ -163,13 +231,13 @@ export const head: DocumentHead = {
     {
       name: "twitter:image:alt",
       content:
-        "Image of Anirban Das's personal website - Fullstack Developer & UX Designer", // Replace with the actual image URL for sharing
+        "Image of ilanchezhian's personal website - Fullstack Developer & UX Designer", // Replace with the actual image URL for sharing
     },
   ],
   links: [
     {
       rel: "canonical",
-      href: "https://www.anirbandas.in/projects",
+      href: "ilanchezhian.dev/projects",
     },
   ],
 };

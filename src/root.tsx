@@ -38,12 +38,12 @@ export default component$(() => {
     "@context": "http://schema.org",
     "@type": "Person",
     name: "Ilanchezhian",
-    url: "https://www.anirbandas.in/",
+    url: "https://www.ilanchezhian.dev/",
     sameAs: [
-      "https://www.linkedin.com/in/anirban12d",
-      "https://twitter.com/anirban12d",
-      "https://www.facebook.com/princeanirban90",
-      "https://github.com/anirban12d",
+      "https://www.linkedin.com/in/ilanchezhian27",
+      "https://x.com/ilanchezhian27",
+
+      "https://github.com/ilanchezhian-m",
     ],
     description:
       "I Create Visually Stunning and Intuitively Functional Websites, Crafted to Drive Result.",
