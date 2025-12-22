@@ -63,7 +63,7 @@ export default component$(() => {
         </h4>
         <div class="flex flex-col gap-32 px-40 py-40 md:gap-64 bg-grey rounded-2xl  ">
         <p class="font-bold container min-w-full text-center text-13 text-black sm:text-16 lg:text-21 xl:text-27"> 
-                 Ecommerce supplement website
+                 E-Commerce Website
                 </p>
         <Image
                   src="/images/logo/Ecommerce.png"
@@ -85,7 +85,7 @@ export default component$(() => {
                 </div>
                 </div>
                 <p class="font-bold container min-w-full text-center text-13 text-black sm:text-16 lg:text-21 xl:text-27"> 
-                  Developed a website for Tas Innovation Startup using Tailwind CSS, React.js on vite , implemented mail functionality with Nodemailer.
+                   Built a scalable e-commerce supplement website using React.js and Tailwind CSS, with reusable UI components, responsive mobile-first design, and smooth navigation to enhance user experience.
                 </p>
   
 
@@ -122,7 +122,7 @@ export default component$(() => {
 
          <div class="flex flex-col gap-32 px-40 py-40 md:gap-64 bg-grey rounded-2xl  ">
         <p class="font-bold container min-w-full text-center text-13 text-black sm:text-16 lg:text-21 xl:text-27"> 
-                 Weather 
+                Weather Forecast 
                 </p>
         <Image
                   src="/images/logo/weather.png"
@@ -144,7 +144,7 @@ export default component$(() => {
                 </div>
                 </div>
                 <p class="font-bold container min-w-full text-center text-13 text-black sm:text-16 lg:text-21 xl:text-27"> 
-                  Developed a website for Tas Innovation Startup using Tailwind CSS, React.js on vite , implemented mail functionality with Nodemailer.
+                  Built a responsive weather forecast web application using HTML, CSS, and JavaScript, integrating the Open-Meteo API to display real-time weather data with user-friendly search and forecast features.
                 </p>
 
 

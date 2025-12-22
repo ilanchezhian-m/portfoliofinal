@@ -89,10 +89,9 @@ export default component$(() => {
                   Frontend Tools
                 </h6>
                 <p class="text-16 font-medium text-textColor lg:max-w-384">
-                  JavaScript(ES6+), TypeScript, HTML5, React.js, Next.js, Redux,
-                  Redux Toolkit, Redux, React Testing Library, Cypress, Sentry,
-                  Node.js/Express, Sanity/Strapi CMS, Git/Gitlab/Github.
-                  Webflow/Shopify.
+               JavaScript(ES6+),, HTML5, React.js, Redux,
+                  Redux Toolkit, Redux, React Testing Library,
+                  Node.js/Express, Git/Github.
                 </p>
               </div>
               <div class="flex min-h-full grow flex-col gap-8 rounded-4xl border-4 border-black bg-grey py-16 pl-32 pr-64 md:px-64 lg:py-32">
@@ -100,9 +99,8 @@ export default component$(() => {
                   Ui Libraries
                 </h6>
                 <p class="text-16 font-medium text-textColor lg:mb-48 lg:max-w-384">
-                  CSS3/SCSS/SASS, Framer Motion, GSAP, Styled Components,
-                  Bootstrap, Tailwind CSS, Material UI, Chakra UI, React
-                  Storybook.
+                   CSS3/SCSS/SASS, Styled Components,
+                  Bootstrap, Tailwind CSS, Material UI, Chakra UI .
                 </p>
               </div>
             </div>
